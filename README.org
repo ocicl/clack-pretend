@@ -1,0 +1,10 @@
+* clack-pretend
+
+A debugging and testing tool for Clack
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/clack-pretend.git   |
+| commit  | d597b30  |
+| systems | clack-pretend |
+|---------+-------------------------------------------|
+
